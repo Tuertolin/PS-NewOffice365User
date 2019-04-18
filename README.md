@@ -1,7 +1,7 @@
 # PS-NewOffice365User
-A script to create an Office 365 User.
+This script will create an Office 365 User.
 
-With that powershell script you will be able to do:
+With this powershell script you will be able to do:
 
 	1- Connect to Office 365 platform (MSOL Service)
 	2- Create a new user account and Password
